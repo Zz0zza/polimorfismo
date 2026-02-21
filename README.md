@@ -1,6 +1,5 @@
  Trabajo 1 - Polimorfismo
-
-Este proyecto fue desarrollado como parte del primer trabajo de CONSTRUCCIÓN DE ELEMENTOS DEL SOFTWARE 2.
+ CONSTRUCCIÓN DE ELEMENTOS DEL SOFTWARE 2.
 
 Contiene:
 
