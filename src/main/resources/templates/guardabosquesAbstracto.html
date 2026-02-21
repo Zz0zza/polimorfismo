@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html xmlns:th="http://www.thymeleaf.org">
+<head>
+    <title>Lista Guardabosques Abstracto</title>
+</head>
+<body>
+
+<h2>Lista de Guardabosques (Clase Abstracta)</h2>
+
+<ul>
+    <li th:each="mensaje : ${mensajes}" th:text="${mensaje}"></li>
+</ul>
+
+</body>
+</html>
