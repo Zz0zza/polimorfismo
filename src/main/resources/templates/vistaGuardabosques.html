@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html xmlns:th="http://www.thymeleaf.org">
+<head>
+    <title>Guardabosques</title>
+</head>
+<body>
+
+<h1>Lista de Guardabosques</h1>
+
+<ul>
+    <li th:each="tarea : ${tareas}"
+        th:text="${tarea}">
+    </li>
+</ul>
+
+</body>
+</html>
